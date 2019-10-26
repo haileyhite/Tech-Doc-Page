@@ -1,0 +1,51 @@
+
+#Intro-header{
+  font-weight: bold;
+}
+
+#Jumpers-header{
+  font-weight: bold;
+}
+
+#Hunters-header{
+  font-weight: bold;
+}
+
+#Drassage-header{
+  font-weight: bold;
+}
+
+#Western-header{
+  font-weight: bold;
+}
+
+#nav-ul{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+
+li{
+  padding-left: 50px;
+}
+
+#navbar{
+  background-color: pink;
+  float: left;
+  position: fixed;
+
+}
+
+#main-doc{
+  display: flex;
+  flex-direction: column;
+  padding : inherit;
+}
+
+#nav-div{
+  padding-bottom: 100px;
+}
+
+body{
+  padding-top: 30px;
+}
